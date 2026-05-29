@@ -7,3 +7,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Local reports (DNS, audits, etc.)
+reports/
